@@ -46,7 +46,7 @@ export default {
       this.$router.push({ name: 'add' });
     },
     goList() {
-      this.$router.push({ name: 'tutorials' });
+      this.$router.push({ name: 'Albums' });
     }
   },
 

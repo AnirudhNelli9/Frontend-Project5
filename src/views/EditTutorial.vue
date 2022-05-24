@@ -36,7 +36,7 @@ export default {
   data() {
     return {
       tutorial: {},
-      message: "Enter data and click save"
+      message: "Albums to be listed"
     };
   },
   methods: {
